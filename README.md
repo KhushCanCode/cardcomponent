@@ -1,5 +1,7 @@
 # card
 
+Check out on netifly : https://task21-cardcomp.netlify.app/
+
 I have first made a template of how i want my card to look like.
  And i have also made a grid container for all these cards to come in 3 columns only.
 
